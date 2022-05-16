@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "email" : "hello",
+            "password" : "world"
+        },
+        {
+            "email" : "hello2",
+            "password" : "world2"
+        },
+        {
+            "email" : "hello3",
+            "password" : "world3"
+        }
+    ]
+}
